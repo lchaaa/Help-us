@@ -16,6 +16,11 @@
 </p>
 
 <p float="left">  
+<img width="35%" src="https://github.com/lchaaa/Help-us/assets/117001092/b99c39d7-ff87-4f69-b306-392a314708d3">
+<img width="35%" src="https://github.com/lchaaa/Help-us/assets/117001092/010b8483-7ca6-4bf5-b8a6-96dec688b2fe">
+</p>
+
+<p float="left">  
 <img width="35%" src="https://github.com/lchaaa/Help-us/assets/117001092/521bf3b2-3e3f-4b2d-99e5-4e18852f22e7">
 <img width="35%" src="https://github.com/lchaaa/Help-us/assets/117001092/e5a64ead-0cc4-489c-a2ea-81b2dce9282b">
 </p>
