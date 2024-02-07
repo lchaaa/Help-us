@@ -1,0 +1,22 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+
+buildscript {
+    repositories {
+        google()
+        // 다른 필요한 리포지토리 추가
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:4.2.0'
+        classpath 'com.google.gms:google-services:4.3.14'// 업데이트할 버전으로 변경
+        // 다른 필요한 종속성 추가
+    }
+}
+plugins {
+    id 'com.android.application' version '8.0.2' apply false
+    id 'com.android.library' version '8.0.2' apply false
+    id 'org.jetbrains.kotlin.android' version '1.8.20' apply false
+    id("com.google.gms.google-services") version "4.4.0" apply false
+}
+
+
+
