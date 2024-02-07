@@ -1,4 +1,4 @@
-<h2 id="3">🏙 Result</h2>
+<h2 id="3">앱 실행 이미지</h2>
 
-<p float="left">  
+
 
