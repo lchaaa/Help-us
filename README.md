@@ -15,7 +15,7 @@
 
 <p float="left">  
 <img width="37%" src="https://github.com/lchaaa/Help-us/assets/117001092/e0a8b931-90be-4c90-bb06-a5980697252d">
-<img width="37%" src="https://github.com/lchaaa/Help-us/assets/117001092/ca2c266c-f9ab-4f3d-8bdf-da083fe6bd43">
+<img width="37%" src="https://github.com/lchaaa/Help-us/assets/117001092/8e2c1d8b-a5f0-4231-8d72-944ba1af1be2">
 </p>
 
 <p float="left">  
